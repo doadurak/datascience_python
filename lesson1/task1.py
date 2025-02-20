@@ -1,8 +1,6 @@
 # Bölüm 1: Operatörler ile İşlemler
 # Görev 1: Kullanıcıdan iki sayı alıp temel matematiksel işlemleri yapan program
 
-# Kullanıcıdan iki sayı alıp temel işlemleri yapan program
-
 def mathematical_operations():
     number1 = float(input("Birinci sayıyı girin: "))  # Kullanıcıdan birinci sayı alınıyor
     number2 = float(input("İkinci sayıyı girin: "))  # Kullanıcıdan ikinci sayı alınıyor
